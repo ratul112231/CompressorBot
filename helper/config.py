@@ -21,7 +21,7 @@ try:
     OWNER = config("7831735222", default=6992010963, cast=int)
     LOG = config("-1003642494316", cast=int)
 except Exception as e:
-    LOGS.info("Environment vars Missing")
-    LOGS.info("something went wrong")
+    LOGS.info("@smmpanelotp")
+    LOGS.info("@smmpanelotp")
     LOGS.info(str(e))
     exit(1)
