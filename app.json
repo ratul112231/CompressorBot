@@ -17,7 +17,7 @@
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather, and enter it's api token here.",
-            "value": "8688841644:AAEYGDKdylabK2qoN6YRqh_D_6y9ij4DlE4"
+            "value": "8222385318:AAH6AK3nSOX2CPxLNAr9CQtqhJZfM-8Jhro"
         },
         "LOG_CHANNEL": {
             "description": "Create a private group/channel. Add @missrose_bot and your bot + make admin. Do /id. Paste that here",
